@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name               ACT.Perplexity.DM.Stop-Auto-Reload(Refresh)
 // @name:zh-CN         ACT.Perplexity.DM.停止自动刷新
-// @description        Block unexpected annoying automatic reloads (refreshes) and updates (Updated to latest version) from occurring.
-// @description:zh-CN  阻止意外的恼人的自动重新加载（刷新）和更新（更新到最新版本）发生。
+// @description        Prevent unexpected annoying automatic reloads (refreshes) and updates (Updated to latest version) from occurring.
+// @description:zh-CN  防止意外的恼人的自动重新加载（刷新）和更新（更新到最新版本）发生。
 // @author             ACTCD
 // @version            20250803.1
 // @license            GPL-3.0-or-later
