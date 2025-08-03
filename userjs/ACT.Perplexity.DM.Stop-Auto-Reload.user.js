@@ -9,8 +9,8 @@
 // @namespace          ACTCD/Userscripts
 // @supportURL         https://github.com/ACTCD/Userscripts#contact
 // @homepageURL        https://github.com/ACTCD/Userscripts
-// @updateURL          https://raw.githubusercontent.com/ACTCD/Userscripts/main/userjs/ACT.Perplexity.DM.Stop-Auto-Reload.js
-// @downloadURL        https://raw.githubusercontent.com/ACTCD/Userscripts/main/userjs/ACT.Perplexity.DM.Stop-Auto-Reload.js
+// @updateURL          https://raw.githubusercontent.com/ACTCD/Userscripts/main/userjs/ACT.Perplexity.DM.Stop-Auto-Reload.user.js
+// @downloadURL        https://raw.githubusercontent.com/ACTCD/Userscripts/main/userjs/ACT.Perplexity.DM.Stop-Auto-Reload.user.js
 // @match              https://www.perplexity.ai/*
 // @grant              none
 // @inject-into        page
