@@ -29,7 +29,7 @@ Install userscript / 安装用户脚本
 
 ##### [ACT.Pengpai.MO.Stay.user.js](https://github.com/ACTCD/Userscripts/raw/main/userjs/ACT.Pengpai.MO.Stay.user.js)
 
-##### [ACT.Perplexity.DM.Stop-Auto-Reload.js](https://github.com/ACTCD/Userscripts/raw/main/userjs/ACT.Perplexity.DM.Stop-Auto-Reload.user.js)
+##### [ACT.Perplexity.DM.Stop-Auto-Reload.user.js](https://github.com/ACTCD/Userscripts/raw/main/userjs/ACT.Perplexity.DM.Stop-Auto-Reload.user.js)
 
 ##### [ACT.Qiyi.MO.Stay.user.js](https://github.com/ACTCD/Userscripts/raw/main/userjs/ACT.Qiyi.MO.Stay.user.js)
 
